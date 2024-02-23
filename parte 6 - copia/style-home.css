@@ -1,0 +1,125 @@
+
+header{
+    background-color: rgb(110, 117, 168);
+    padding: 20px 0;
+}
+
+.caja{
+    
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+}
+
+nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li{
+
+    display: inline-flex;
+    margin: 0 0 0 15px;
+}
+#ulHeader{
+    display: inline-flex;
+    margin: 0 0 0 10px;
+}
+
+nav a{
+
+    text-transform: uppercase;
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: #c78c19
+}
+
+#banner{
+    
+    width: 100%;
+    padding: 10px 0;
+
+}
+
+.principal{
+    background: rgb(110, 117, 168);
+    padding: 30px;
+    
+}
+
+.titulocentralizado{
+    text-align: center;
+    color:rgba(23, 23, 121, 0.93);
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+p {
+    color: white;
+    text-align: left;
+    
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.negrita{
+font-weight: bold;
+}
+
+.mision {
+    color: rgb(29, 27, 88);
+    font-weight: bold;
+    font-style: italic;
+}
+
+strong em{
+    color: white;
+}
+
+.diferenciales{
+    background: #ffffff;
+    text-align: left;
+    padding: 20px;
+    border: #211f1f solid 5px;
+}
+
+.listaDiferencia{
+
+    display: inline-block;
+    vertical-align: top;
+    width: 35%;
+    margin-right: 10%;
+}
+
+.items{
+    color : rgba(23, 23, 121, 0.93);
+    font-style: italic;
+}
+
+.imagenDiferenciales{
+
+    width: 50%;
+}
+
+footer{
+    text-align: center;
+    background: rgb(110, 117, 168);
+    padding: 20px;
+
+}
+
+.copyright{
+    text-align: center;
+    color: black;
+    font-size: 13px;
+    margin:20px;
+}
